@@ -1,2 +1,2 @@
 # JavaProjet
-nanananananananananananananana PAC-MAN !
+PAC-MAN !
